@@ -1,0 +1,23 @@
+{
+  "name": "zakupki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "babel-node index.js",
+    "test": "echo \\\\\\\"Error: no __tests__ specified\\\\\\\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "basic-ftp": "4.6.2",
+    "unzipper": "0.10.11",
+    "@babel/cli": "7.11.6",
+    "@babel/core": "7.11.6",
+    "@babel/node": "7.10.5",
+    "@babel/preset-env": "7.11.5",
+    "faker": "5.1.0",
+    "jest": "26.4.2",
+    "nodemon": "2.0.4"
+  }
+}
